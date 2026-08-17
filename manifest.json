@@ -1,0 +1,14 @@
+{
+  "name": "TH Piscinas - Limpeza Profissional",
+  "short_name": "TH Piscinas",
+  "description": "Limpeza de Piscinas - Tratamento e Manutenção - Água Cristalina",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E0F2FE",
+  "theme_color": "#0C4A6E",
+  "icons": [
+    {"src": "./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src": "./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
